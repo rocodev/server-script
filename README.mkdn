@@ -1,0 +1,3 @@
+## bootup_god
+
+rvm wrapper ruby-1.9.2-p320 bootup god
